@@ -16,12 +16,12 @@ class MainPage extends Component {
 
                 <NavBar />
                 <Header />
-                {/* <ShortAbout />
-                <Services /> 
-                <Projects />
-                <TokenInfo />
-                <Contacts /> */}
-                <Footer />
+                {/* <Projects /> */}
+                {/* <ShortAbout /> */}
+                {/* <Services />  */}
+                {/* <TokenInfo /> */}
+                {/* <Contacts /> */}
+                {/* <Footer /> */}
 
             </div>
         )
