@@ -14,9 +14,9 @@ function Copyright() {
         <Typography variant="body2" color="textSecondary" align="center">
             {'Copyright © '}
             <Link color="inherit" href="https://didex.org/">
-                Didex.org
-        </Link>{' '}
-            {new Date().getFullYear()}
+                didex.org
+        </Link>{' '} <br />
+            2020 - {new Date().getFullYear()}
             {''}
         </Typography>
     );

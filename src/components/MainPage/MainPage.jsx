@@ -21,7 +21,7 @@ class MainPage extends Component {
                 {/* <Services />  */}
                 {/* <TokenInfo /> */}
                 {/* <Contacts /> */}
-                {/* <Footer /> */}
+                <Footer />
 
             </div>
         )
